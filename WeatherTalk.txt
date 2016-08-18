@@ -1,2 +1,3 @@
 WriteLine("Is the weather fine?");
 WriteLine("uuuu! It is raining");
+WriteLine("It`s raining man, allilua");
