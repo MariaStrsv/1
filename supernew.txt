@@ -1,4 +1,0 @@
-WriteLine("Hello, world!");
-WriteLine("Wats up?");
-WriteLine("piw-wiw");
-WriteLine("Ea!");
