@@ -1,0 +1,2 @@
+WriteLine("Is the weather fine?");
+WriteLine("uuuu! It is raining");
