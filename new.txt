@@ -1,2 +1,2 @@
 WriteLine("Hello, world!");
-WriteLine("How are you?");
+WriteLine("^)))");
