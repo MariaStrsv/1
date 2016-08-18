@@ -1,0 +1,27 @@
+From 3cd632ca0e3999028e8b6a7f15a3d7b90a6bf79b Mon Sep 17 00:00:00 2001
+From: Mary <mufu@mail.ru>
+Date: Thu, 18 Aug 2016 15:37:02 +0500
+Subject: [PATCH] =?UTF-8?q?Revert=20"=D1=82=D0=BE=D1=80=D0=BC=D0=BE=D0=B7?=
+ =?UTF-8?q?=D0=B8=D0=BB=D0=BB=D0=BE=20=D0=BF=D1=80=D0=B8=D1=88=D0=B5=D0=BB?=
+ =?UTF-8?q?"?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This reverts commit 494272fb74e1cb589e68e7394828e1449c0c5e18.
+---
+ Wif.txt | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 Wif.txt
+
+diff --git a/Wif.txt b/Wif.txt
+deleted file mode 100644
+index 9057262..0000000
+--- a/Wif.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-WriteLine("The weather is fine");
+\ No newline at end of file
+-- 
+2.8.1.windows.1
+
